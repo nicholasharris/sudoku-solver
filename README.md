@@ -3,4 +3,4 @@ C++ program that solves sudoku puzzles in terminal via recursive backtracking. A
 
 The lack of a GUI interface means the program is tedious to use (entering all clue numbers through the command line takes quite a bit of time). But as an exercise I felt this project was rewarding.
 
-TO RUN: This code was tested in Windows, using Microsoft Visual Studio 2015.
+This code was tested in Windows, using Microsoft Visual Studio 2015.
